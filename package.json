@@ -7,7 +7,9 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build --prefix-paths",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "rsync -avz --delete ./public/ -e ssh test@c:/home/test/web/lwvu.org/public_html",
+    "bd": "gatsby build --prefix-paths && rsync -avz --delete ./public/ -e ssh test@c:/home/test/web/lwvu.org/public_html"
   },
   "dependencies": {
     "@stackbit/gatsby-plugin-menus": "0.0.4",
