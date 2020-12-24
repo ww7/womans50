@@ -3,7 +3,7 @@ title: Про нас
 sections:
   - type: hero_section
     title: About
-    subtitle: About Page Demo
+    subtitle: '"ЛІГА ЖІНОК-ВИБОРЦІВ УКРАЇНИ 50/50"'
     align: center
     background_color: secondary
   - type: features_section
