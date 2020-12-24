@@ -119,5 +119,5 @@ sections:
     has_border: false
     background_color: primary
 template: advanced
-excerpt: '"ЛІГА ЖІНОК-ВИБОРЦІВ УКРАЇНИ 50/50" '
+excerpt: '"ЛІГА ЖІНОК-ВИБОРЦІВ УКРАЇНИ 50/50"'
 ---
