@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Проекти",
-                "url": "/features",
+                "url": "/projects",
                 "style": "link"
             },
             {
