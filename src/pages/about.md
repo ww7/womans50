@@ -1,5 +1,5 @@
 ---
-title: About
+title: Ліга
 sections:
   - type: hero_section
     title: About
