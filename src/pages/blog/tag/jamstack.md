@@ -2,7 +2,7 @@
 title: Події
 sections:
   - type: hero_section
-    title: Поді
+    title: Події
     subtitle: The optional subtitle
     align: center
     padding_top: medium
