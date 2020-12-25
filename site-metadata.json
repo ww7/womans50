@@ -27,7 +27,7 @@
             },
             {
                 "label": "Новини",
-                "url": "/blog",
+                "url": "/news",
                 "style": "link"
             },
             {
