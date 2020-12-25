@@ -1,5 +1,5 @@
 ---
-title: JAMstack
+title: Події
 sections:
   - type: hero_section
     title: JAMstack
