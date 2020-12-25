@@ -48,7 +48,7 @@
                 "url": "/pricing",
                 "style": "primary",
                 "has_icon": true,
-                "icon": "instagram"
+                "icon": "arrow-left"
             }
         ],
         "has_anncmnt": true,
