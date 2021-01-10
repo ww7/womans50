@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Blog Feed Section
     actions:
       - label: View All
         url: /blog
